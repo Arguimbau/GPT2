@@ -1,0 +1,10 @@
+What's the capital of Denmark? Copenhagen
+What's the capital of France? Paris
+What's the capital of Germany? Berlin
+What's the capital of Greece? Athens
+What's the capital of Hungary? Budapest
+What's the capital of Iceland? Reykjavik
+What's the capital of Ireland? Dublin
+What's the capital of Italy? Rome
+What's the capital of Latvia? Riga
+What's the capital of Lithuania? Vilnius
